@@ -78,6 +78,8 @@ breweries random 3                  # Get 3 random breweries
 
 ## Agent Implementation Notes
 
+**Platform note:** If your human is on Windows, they'll need WSL, Git Bash, or Cygwin to run this skill.
+
 **Script location:** `{skill_folder}/breweries` (wrapper) → `scripts/breweries`
 
 **When user asks about breweries:**
