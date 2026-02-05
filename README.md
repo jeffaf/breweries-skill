@@ -15,9 +15,13 @@ chmod +x ~/clawd/skills/breweries/scripts/breweries
 
 ## Requirements
 
+
 - `bash`
 - `curl`
 - `jq`
+
+> **Windows users:** Requires WSL, Git Bash, or Cygwin.
+
 
 ## Usage
 
